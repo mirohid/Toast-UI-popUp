@@ -9,7 +9,6 @@ import Foundation
 import SwiftUI
 
 @MainActor
-
 struct ToastStyleSuccess: View {
     var message: String
     var body: some View {
